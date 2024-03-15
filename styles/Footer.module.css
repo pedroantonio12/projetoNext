@@ -1,0 +1,9 @@
+.footer {
+    background-color: #2fcc5e;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    margin-top: 2em;
+    text-align: center; /* Center align text */
+  }
+  

@@ -1,0 +1,3 @@
+[submodule "projetonext"]
+	path = projetonext
+	url = https://github.com/pedroantonio12/projetonext.git
