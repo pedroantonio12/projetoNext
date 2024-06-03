@@ -1,6 +1,6 @@
-# Processo Seletivo
 
- Código desenvolvido como parte do processo seletivo.
+
+Primeiro projeto desenvolvido utilizando Next.
 
 Premissas Assumidas
 ----------------------------------------------
